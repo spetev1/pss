@@ -12,6 +12,8 @@ namespace Welcome.ViewModel
     {
         private User _user;
 
+        public UserViewModel(User user) {  _user = user; }
+
         public string Name
         {
             get { return _user.Name; }
@@ -26,6 +28,16 @@ namespace Welcome.ViewModel
         {
             get { return _user.Role; }
             set { _user.Role = value; }
+        }
+        public String email
+        {
+            get { return _user.email; }
+            set { _user.email = value; }
+        }
+        public String facNumber
+        {
+            get { return _user.facNumber; }
+            set { _user.facNumber = value; }
         }
     }
 }

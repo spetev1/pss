@@ -20,6 +20,8 @@ namespace Welcome.View
             Console.WriteLine("Welcome");
             Console.WriteLine(_viewModel.Name);
             Console.WriteLine(_viewModel.Role);
+            Console.WriteLine(_viewModel.facNumber);
+            Console.WriteLine(_viewModel.email);
 
         }
     }

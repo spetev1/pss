@@ -1,0 +1,14 @@
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\bin\Debug\net6.0\Welcome.exe
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\bin\Debug\net6.0\Welcome.deps.json
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\bin\Debug\net6.0\Welcome.runtimeconfig.json
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\bin\Debug\net6.0\Welcome.dll
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\bin\Debug\net6.0\Welcome.pdb
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfoInputs.cache
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.AssemblyInfo.cs
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.csproj.CoreCompileInputs.cache
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.dll
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\refint\Welcome.dll
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.pdb
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\Welcome.genruntimeconfig.cache
+D:\123ide\pss-main\pss-main\PS_45_Stanislav\Welcome\obj\Debug\net6.0\ref\Welcome.dll
