@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyWgLUGbBRtAVkRp2LJugL6kocv4WwtVcLk15lFu6MRdJOpFPYNJX2EtiS/eKrZrtjkjcRUSNbwElXGyKZwu9g==",
+  "success": true,
+  "projectFilePath": "D:\\123ide\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanislav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stanislav\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stanislav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Stanislav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
