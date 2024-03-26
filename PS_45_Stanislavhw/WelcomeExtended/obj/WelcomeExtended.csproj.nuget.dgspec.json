@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\WelcomeExtended\\WelcomeExtended.csproj": {}
+    "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\WelcomeExtended\\WelcomeExtended.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\WelcomeExtended\\WelcomeExtended.csproj": {
+    "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\WelcomeExtended\\WelcomeExtended.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\WelcomeExtended\\WelcomeExtended.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\WelcomeExtended\\WelcomeExtended.csproj",
         "projectName": "WelcomeExtended",
-        "projectPath": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\WelcomeExtended\\WelcomeExtended.csproj",
-        "packagesPath": "C:\\Users\\Stanislav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\WelcomeExtended\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\WelcomeExtended\\WelcomeExtended.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\WelcomeExtended\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stanislav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj": {
-                "projectPath": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj"
+              "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\Welcome.csproj": {
+                "projectPath": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\Welcome.csproj"
               }
             }
           }
@@ -38,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -70,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj": {
+    "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\Welcome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\Welcome.csproj",
         "projectName": "Welcome",
-        "projectPath": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\Welcome.csproj",
-        "packagesPath": "C:\\Users\\Stanislav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stanislav\\Desktop\\pss-main\\pss-main\\PS_45_Stanislav\\Welcome\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\Welcome.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Source\\Repos\\pss\\PS_45_Stanislavhw\\Welcome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stanislav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,11 +99,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

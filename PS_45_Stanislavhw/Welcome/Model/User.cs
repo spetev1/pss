@@ -7,13 +7,14 @@ using Welcome.Others;
 
 namespace Welcome.Model
 {
-    internal class User
+    public class User
     {
         public string Name { get; set; }
         public string Password { get ; set; }
         public UserRolesEnum Role { get; set; }
         public string email {  get; set; }
         public string facNumber {  get; set; }
+        public int id { get; set; }
 
         public User(string name, string password, UserRolesEnum role, string email, string facNumber)
         {
